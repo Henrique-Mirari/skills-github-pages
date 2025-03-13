@@ -1,4 +1,4 @@
 ---
-title: "YOUR-TITLE"
-date: YYYY-MM-DD
+title: "*feito-melhor-que-perfeito*"
+date: 2025-03-13
 ---
