@@ -1,4 +1,4 @@
-*feito melhor que perfeito*---
-title: Welcome to my blog
----
+
+*title: Welcome to my blog*
+date: 2025-03-13
 
